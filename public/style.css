@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+}
+
+.video-medium{
+  width:740px;
+}
+
+.vertical{
+  -webkit-appearance: slider-vertical
+}
